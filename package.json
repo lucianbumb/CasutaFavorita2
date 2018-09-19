@@ -1,6 +1,7 @@
 {
   "name": "client-app",
   "version": "0.0.0",
+  "homepage": "https://lucianbumb.github.io/CasutaFavorita2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
